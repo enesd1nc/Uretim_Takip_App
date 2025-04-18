@@ -1,0 +1,56 @@
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.deps.json
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.runtimeconfig.json
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.pdb
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.AssemblyInfoInputs.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.AssemblyInfo.cs
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/refint/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.pdb
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.genruntimeconfig.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat/UretimTakipApp/obj/Debug/net8.0/ref/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.deps.json
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.runtimeconfig.json
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/bin/Debug/net8.0/UretimTakipApp.pdb
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.AssemblyInfoInputs.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.AssemblyInfo.cs
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/refint/UretimTakipApp.dll
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.pdb
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/UretimTakipApp.genruntimeconfig.cache
+/mnt/c/Users/mehme/OneDrive/Desktop/mülakat - Kopya/UretimTakipApp/obj/Debug/net8.0/ref/UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.exe
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.deps.json
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.runtimeconfig.json
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.pdb
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\refint\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.pdb
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini\UretimTakipApp\obj\Debug\net8.0\ref\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.exe
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.deps.json
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.runtimeconfig.json
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\bin\Debug\net8.0\UretimTakipApp.pdb
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\refint\UretimTakipApp.dll
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.pdb
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\UretimTakipApp.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Desktop\mülakat - gemini - Kopya\UretimTakipApp\obj\Debug\net8.0\ref\UretimTakipApp.dll
